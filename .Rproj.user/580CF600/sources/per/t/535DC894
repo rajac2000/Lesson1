@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578575077830.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3057163582",
+    "id" : "535DC894",
+    "lastKnownWriteTime" : 1578580172,
+    "last_content_update" : 1578580172544,
+    "path" : "C:/Users/RBR/Desktop/R/Lesson1/Syntax Practice.R",
+    "project_path" : "Syntax Practice.R",
+    "properties" : {
+        "cursorPosition" : "63,0",
+        "scrollLine" : "43",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}

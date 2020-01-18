@@ -1,0 +1,65 @@
+# Lesson 1 ----
+
+# Syntax ----
+a <- 10
+b <- a
+a <- 20
+c <- a + b
+c
+
+bool1 = T
+bool2 = FALSE
+
+# check later for syntax for IF
+if(bool2)
+  print("TRUE")
+
+
+name1 <- "Raja"
+name2 <- "Biru"
+
+print(name2)
+print(class(name1))
+
+#gives the datatype
+class(a)
+
+
+# removed a variable from memory
+rm(a)
+
+# Vector 
+
+vector1 <- c(1,2,3,4,5,6,7,8,9,10)
+vector2 <- c(1000:1)
+
+print(vector2[2])
+
+vec3 <- c(-9:0)
+
+vec4 <- vec3 * -1
+
+c(3,2)
+
+c(1:5, 10.5, "next")
+
+x <- 1:4
+x
+c(x)
+x[5]
+
+base1 <- c(1:16)
+times2 = base1 * 2
+
+daysVector <- c("Sun", "Mon", "Tue", 
+                "Wed", "Thu", "Fri", "Sat")
+
+daysIndex <- c(2:6)
+daysVector[daysIndex]
+daysVector[-5]
+
+
+myNums <- 1:100
+
+
+#
